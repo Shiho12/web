@@ -1,0 +1,56 @@
+.logo{
+  float: right;
+}
+
+.container{
+  width: 1170px;
+  padding: 0 15px;
+  margin: 0 auto;
+}
+.top-wrapper{
+
+    margin: 0 auto;
+}
+
+.profil-title{
+  font-family: 'Century Gothic', sans-serif;
+    font-weight: 200;
+    color: #550000;
+    font-size: 30px;
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+    width: 100%;
+}
+
+.pro-name img{
+  text-align: center;
+  margin: 0 auto;
+  display: block;
+
+
+}
+
+.pro-name h3 span  {
+    font-family: 'Century Gothic', sans-serif;
+    font-weight: 300;
+    font-style: italic;
+    color: #A8A8A8;
+    background: #111726;
+    padding: 10%;
+    display: inline-block;
+    font-size: 25px;
+    width: auto;
+    letter-spacing: 5px;
+
+}
+
+figcaption{
+  position: absolute;
+  top:180%;
+  left: 32%;
+  z-index: 1;
+  width: 95%
+  transform:translateX(0px);
+  opacity: 1;
+  }

@@ -47,10 +47,187 @@
 
 figcaption{
   position: absolute;
-  top:180%;
-  left: 32%;
+  top:140%;
+  left: 37%;
   z-index: 1;
   width: 95%
   transform:translateX(0px);
   opacity: 1;
   }
+
+  .age{
+    position: absolute;
+    top:165%;
+    left: 37%;
+    z-index: 1;
+    width: 95%
+    transform:translateX(0px);
+    opacity: 1;
+
+
+  }
+
+  .age h3 span {
+    font-family: 'Century Gothic', sans-serif;
+    font-weight: 300;
+    font-style: italic;
+    color: #FFFFFF;
+    background:	#708090	;
+    padding: 10%;
+    display: inline-block;
+    font-size: 25px;
+    width: auto;
+    letter-spacing: 5px;
+  }
+
+  .age-19 {
+    font-family: 'Century Gothic', sans-serif;
+      font-weight: 10;
+      font-size: 35px;
+      color: #550000;
+      float: right;
+  }
+.age h3{
+  float: left;
+  margin-right: 350px;
+  margin-top: 10px;
+}
+
+.birthday{
+  position: absolute;
+  top:170%;
+  left: 37%;
+  z-index: 1;
+  width: 95%
+  transform:translateX(0px);
+  opacity: 1;
+}
+
+.birthday h3 span{
+  font-family: 'Century Gothic', sans-serif;
+  font-weight: 300;
+  font-style: italic;
+  color: #FFFFFF;
+  background:		#708090	;
+  padding: 10%;
+  display: inline-block;
+  font-size: 25px;
+  width: auto;
+  letter-spacing: 5px;
+}
+
+.birthday-12{
+  font-family: 'Century Gothic', sans-serif;
+    font-weight: 10;
+    font-size: 35px;
+    color: #550000;
+    float: right;
+}
+
+.birthday h3{
+  float: left;
+  margin-right: 132px;
+  margin-top: 18px;
+}
+
+.work{
+  position: absolute;
+  top:178%;
+  left: 37%;
+  z-index: 1;
+  width: 95%
+  transform:translateX(0px);
+  opacity: 1;
+}
+
+.work h3 span{
+  font-family: 'Century Gothic', sans-serif;
+  font-weight: 300;
+  font-style: italic;
+  color: #FFFFFF;
+  background:		#708090	;
+  padding: 10%;
+  display: inline-block;
+  font-size: 25px;
+  width: auto;
+  letter-spacing: 5px;
+}
+
+.work-student{
+  font-family: 'Century Gothic', sans-serif;
+    font-weight: 10;
+    font-size: 35px;
+    color: #550000;
+    float: right;
+}
+
+.work h3{
+  float: left;
+  margin-right: 90px;
+  margin-top: 18px;
+}
+
+.hobby{
+  position: absolute;
+  top:185%;
+  left: 37%;
+  z-index: 1;
+  width: 95%
+  transform:translateX(0px);
+  opacity: 1;
+}
+
+.hobby h3 span{
+  font-family: 'Century Gothic', sans-serif;
+  font-weight: 300;
+  font-style: italic;
+  color: #FFFFFF;
+
+  background:	#708090	;
+  padding: 10%;
+  display: inline-block;
+  font-size: 25px;
+  width: auto;
+  letter-spacing: 5px;
+}
+
+.hobby-1{
+  font-family: 'Century Gothic', sans-serif;
+    font-weight: 10;
+    font-size: 35px;
+    color: #550000;
+    float: right;
+}
+
+.hobby h3{
+  float: left;
+  margin-right: 157px;
+  margin-top: 18px;
+}
+
+.photo-titel{
+  font-family: 'Century Gothic', sans-serif;
+    font-weight: 200;
+    color: #550000;
+    font-size: 30px;
+    display: block;
+    margin: 0 auto 0px;
+    text-align: center;
+}
+
+
+header {
+  height: 65px;
+  width: 100%;
+background-color: rgba(255,255,255,1.0);
+  position: fixed;
+  top: 0;
+   z-index: 10;
+
+
+}
+
+footer ul {
+  display: table;
+   width: 100%;
+}

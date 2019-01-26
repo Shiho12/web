@@ -215,6 +215,33 @@ figcaption{
     text-align: center;
 }
 
+#waku {
+width: 799px;
+height: 410px;
+padding-top: 5px;
+margin-right: auto; /* ▽ 中央寄せ ▽ */
+margin-left: auto;/* △ 中央寄せ △ */
+}
+.photo-list {
+list-style-type: none; /* リストマーカーを消す */
+border: 0 solid black;
+display: block; /* リストをブロックレベルで表示させる */
+width: 245px;
+height: 350px;
+float: left;
+margin-right: 30px;
+margin-left: 35px;
+}
+
+.photo-img img { /* <li>タグの中の<img>のプロパティはここで。 */
+margin: 5px;
+width: 330px;
+
+}
+.text {
+margin: 5px; /* 画像の下の文章のレイアウトはここで。 */
+list-style-type: none;
+}
 
 header {
   height: 65px;
